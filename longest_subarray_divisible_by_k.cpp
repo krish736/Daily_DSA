@@ -1,6 +1,6 @@
-GFG
-11-jan-2024
-Given an array arr containing N integers and a positive integer K, find the length of the longest sub array with sum of the elements divisible by the given value K.
+// GFG
+// 11-jan-2024
+// Given an array arr containing N integers and a positive integer K, find the length of the longest sub array with sum of the elements divisible by the given value K.
 
 //{ Driver Code Starts
 #include <bits/stdc++.h>
