@@ -1,4 +1,4 @@
-// Leetcode
+// Gfg
 // 16-jan-2024
 // Given two integers m and n, try making a special sequence of numbers seq of length n such that
 
